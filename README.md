@@ -12,7 +12,7 @@
 
    或点击 `Code`-`>Download ZIP`下载项目工程的压缩包文件
 
-   若您的网络连接条件异常，可使用百度网盘[链接](https://www.baidu.com)下载
+   若您的网络连接条件异常，可使用百度网盘[链接](https://pan.baidu.com/s/1OeBNIHFi3GmdPWZkn62cDQ?pwd=1vyk)下载
 2. 切换至项目工程 `time-series-analysis-and-python-practices`
 
    ```bash
