@@ -60,7 +60,7 @@
 
 ## 附录 Appendix
 
-为便于读者使用，本书的附录部分以Markdown格式文本提供，文 `appendix.md`件位于本仓库根路径下。
+为便于读者使用，本书的附录部分以Markdown格式文本提供，文件 `appendix.md`位于本仓库根路径下。
 
 ## 其他 Others
 
